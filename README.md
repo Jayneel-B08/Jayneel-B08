@@ -1,32 +1,60 @@
-👋 Hi, I'm Jayneel Bhupendra
-Aspiring Software Engineer | A-Level Computer Science Student
+# Jayneel Bhupendra
+**Software Engineering Student | Systems & Backend Development**
 
-I build tools that bridge the gap between efficiency and functionality. Currently focusing on system architecture, networked applications, and modern UI design.
+Dedicated to building efficient, scalable software with a focus on system architecture and automation. Currently specializing in the .NET ecosystem and Python for tool development.
 
-🛠 Tech Stack
-Category
-Tools
-Languages	
-Frameworks/Libs	.NET 8 FastAPI CustomTkinter BeautifulSoup
-Tools	Git GitHub VS Code Visual Studio
-🚀 Featured Projects
-🌐 PySiteGen
-A configuration-driven Static Site Generator built with Python.
+---
 
-Key Feature: Decoupled content-template architecture.
-Tech: Python, Markdown, Jinja2-style templating.
-Impact: Automates the conversion of Markdown documentation into themed HTML websites.
-🏦 Local Banking System (In Progress)
-Full-scale banking application for A-Level CS NEA.
+### 🎯 Technical Focus
+- **Systems Programming:** Designing multi-threaded networked applications and secure data handling.
+- **Automation:** Building configuration-driven tools to streamline content delivery and workflows.
+- **UI/UX Engineering:** Creating high-performance local interfaces using modern frameworks like CustomTkinter and .NET 8.
 
-Focus: Data integrity, secure transaction handling, and professional GUI.
-Tech: C#, .NET 8, WinForms/WPF.
-💬 MultiClient-Server-Chat
-A real-time networked communication tool.
+---
 
-Focus: Socket programming and multi-threaded server handling.
-Tech: C#, .NET.
-📈 GitHub Stats
+### 🛠 Technical Proficiency
 
-📫 Connect with me
-Jayneel-B08@outlook.com
+**Languages & Core Tech**
+`C# (.NET 8)` `Python 3.x` `SQL` `HTML5/CSS3` `JavaScript`
+
+**Frameworks & Libraries**
+`FastAPI` `Entity Framework` `CustomTkinter` `BeautifulSoup` `Jinja2`
+
+**Tools & Infrastructure**
+`Git` `GitHub Actions` `VS Code` `Visual Studio` `Linux/Windows`
+
+---
+
+### 🚀 Engineering Case Studies
+
+#### 🌐 [PySiteGen](https://github.com/Jayneel-B08/PySiteGen)
+**Static Site Generator | Python**
+*Architected a decoupled content-template system to automate the transformation of Markdown into themed HTML.*
+- **Engineering Decision:** Implemented a configuration-driven architecture to allow theme switching without modifying the core logic.
+- **Result:** Reduced the overhead of manual HTML authoring for documentation-heavy sites.
+
+#### 🏦 Local Banking System
+**Financial Management Suite | C# / .NET 8**
+*Developing a comprehensive banking application as part of an A-Level Computer Science NEA.*
+- **Key Focus:** Implementing ACID-compliant transaction handling and secure data persistence.
+- **Architecture:** Utilizing a modular design to separate business logic from the presentation layer (UI).
+
+#### 💬 [MultiClient-Server-Chat](https://github.com/Jayneel-B08/MultiClient-Server-Chat)
+**Concurrent Networking Tool | C# / .NET**
+*Implemented a real-time communication server capable of handling multiple simultaneous client connections.*
+- **Technical Challenge:** Solved race conditions and connection bottlenecks using multi-threading and socket programming.
+- **Result:** Established a stable, low-latency communication pipeline between disparate clients.
+
+---
+
+### 📈 Activity & Metrics
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Jayneel-B08&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayneel-B08&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📫 Connect
+[Email](mailto:[Jayneel-B08@outlook.com])
