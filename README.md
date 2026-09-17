@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Jayneel Bhupendra
+Aspiring Software Engineer | A-Level Computer Science Student
 
-<!--
-**Jayneel-B08/Jayneel-B08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools that bridge the gap between efficiency and functionality. Currently focusing on system architecture, networked applications, and modern UI design.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+Category
+Tools
+Languages	
+Frameworks/Libs	.NET 8 FastAPI CustomTkinter BeautifulSoup
+Tools	Git GitHub VS Code Visual Studio
+🚀 Featured Projects
+🌐 PySiteGen
+A configuration-driven Static Site Generator built with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Key Feature: Decoupled content-template architecture.
+Tech: Python, Markdown, Jinja2-style templating.
+Impact: Automates the conversion of Markdown documentation into themed HTML websites.
+🏦 Local Banking System (In Progress)
+Full-scale banking application for A-Level CS NEA.
+
+Focus: Data integrity, secure transaction handling, and professional GUI.
+Tech: C#, .NET 8, WinForms/WPF.
+💬 MultiClient-Server-Chat
+A real-time networked communication tool.
+
+Focus: Socket programming and multi-threaded server handling.
+Tech: C#, .NET.
+📈 GitHub Stats
+
+📫 Connect with me
+Jayneel-B08@outlook.com
